@@ -1,4 +1,4 @@
-# 📞 Corporate Phone Directory
+# Corporate Phone Directory или Планетарный Адресный Центр Абонентских Ключей (ПАЦАК 3.0)
 
 [![PHP Version](https://img.shields.io/badge/PHP-8.3+-blue.svg)](https://php.net)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
